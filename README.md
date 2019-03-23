@@ -1,2 +1,0 @@
-# payoneer
-payoneer login page
